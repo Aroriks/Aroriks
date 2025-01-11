@@ -40,9 +40,9 @@ print("started " + (x))
 print(f"{blue} ")
 print(f"{blue} ")
 print ("""
-my id telegram = @tacklorix
+my id telegram = @THEIAGO
 
-my id Educational channel telegram = @Filtering_Hacking
+my id Educational channel telegram = @Aroriks
 """)
 print (Fore.WHITE + "")
 x = """ waiting for load Script!
